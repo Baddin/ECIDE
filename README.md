@@ -2,16 +2,16 @@
 ECIDE Customize to Make `Emacs` Like C/C++ IDE 
 
 
-## feature: 
+## features : 
 
 1. Auto Complite Code
 2. Auto Complite header File
 3. Layout For Methods and Source Browser
 4. Numbering of lines
 5. Error Checker 
-+ And More Feature 
++ And More features 
 
-## depends
+## Dependencies :
 This customize depends these Packages :
 
 1. aggressive-indent

@@ -1,21 +1,21 @@
 # ECIDE
-ECIDE Customize to Make `Emacs` Like C/C++ IDE 
+ECIDE Customization to make `Emacs` Like C/C++ IDE.
 
 
-## features : 
+## Features : 
 
-1. Auto Complite Code
-2. Auto Complite header File
-3. Layout For Methods and Source Browser
-4. Numbering of lines
-5. Error Checker 
-+ And More features 
+1. Auto complete code
+2. Auto complete header Files
+3. Layout for methods and source browser
+4. Line numbers
+5. Error checker 
++ And more features 
 
 ## Dependencies :
-This customize depends these Packages :
+This customization depends on these Packages:
 
 1. aggressive-indent
-2. Company
+2. company
 3. company-c-headers
 4. ecb
 5. fill-column-indicato
@@ -23,9 +23,9 @@ This customize depends these Packages :
 7. flycheck-color-mode-line
 
 
-## Installing 
-After Install Dependencies
-Copy `.emacs` to your path init file 
+## Setup
+After Installing dependencies
+copy `.emacs` to your "path init file". 
 
 
 

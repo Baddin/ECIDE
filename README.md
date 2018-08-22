@@ -2,9 +2,9 @@
 ECIDE Customization to make `Emacs` Like C/C++ IDE.
 
 
-![Alt screenshot](screenshot/screen1.png)
+![screenshot](screenshot/screen1.png)
 
-![Alt screenshot2](screenshot/screen2.png)
+![screenshot2](screenshot/screen2.png)
 
 ## Features : 
 
